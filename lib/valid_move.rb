@@ -20,4 +20,4 @@ end
 board = []
 board[0] = "X"
 puts board
-puts position_taken?(board, 4)
+puts position_taken?(board, 9)

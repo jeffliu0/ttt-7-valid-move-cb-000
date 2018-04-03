@@ -15,3 +15,8 @@ def position_taken?(board, index)
   end
   return true
 end
+
+board = []
+board[0] = "X"
+puts board
+puts position_taken?(board, 4)
